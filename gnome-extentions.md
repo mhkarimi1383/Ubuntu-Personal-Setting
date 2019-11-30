@@ -1,4 +1,5 @@
 # Activities Configurator by nls1729 link: https://extensions.gnome.org/extension/358/activities-configurator/
+![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/ActivitiesConfigurator.png)
 # Applications Menu by fmuellner link: https://extensions.gnome.org/extension/6/applications-menu/
 # Clipboard Indicator by Tudmotu link: https://extensions.gnome.org/extension/779/clipboard-indicator/
 # Dash to Dock by michele_g link: https://extensions.gnome.org/extension/307/dash-to-dock/
