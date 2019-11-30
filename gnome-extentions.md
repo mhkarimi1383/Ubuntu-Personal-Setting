@@ -2,6 +2,7 @@
 ![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/ActivitiesConfigurator.png)
 # Applications Menu by fmuellner link: https://extensions.gnome.org/extension/6/applications-menu/
 # Clipboard Indicator by Tudmotu link: https://extensions.gnome.org/extension/779/clipboard-indicator/
+![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/ClipboardIndicator.png)
 # Dash to Dock by michele_g link: https://extensions.gnome.org/extension/307/dash-to-dock/
 # Desktop Icons by rastersoft link: https://extensions.gnome.org/extension/1465/desktop-icons/
 # Draw On You Screen by abakkk link: https://extensions.gnome.org/extension/1683/draw-on-you-screen/
