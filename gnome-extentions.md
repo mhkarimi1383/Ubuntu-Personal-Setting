@@ -5,6 +5,7 @@
 ![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/ClipboardIndicator.png)
 # Dash to Dock by michele_g link: https://extensions.gnome.org/extension/307/dash-to-dock/
 ![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/DashtoDock.png)
+## HTML code of color is #434C5E
 # Desktop Icons by rastersoft link: https://extensions.gnome.org/extension/1465/desktop-icons/
 # Draw On You Screen by abakkk link: https://extensions.gnome.org/extension/1683/draw-on-you-screen/
 # Force Quit by megh link: https://extensions.gnome.org/extension/770/force-quit/
