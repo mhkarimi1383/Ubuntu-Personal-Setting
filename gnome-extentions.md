@@ -10,6 +10,7 @@
 # Draw On You Screen by abakkk link: https://extensions.gnome.org/extension/1683/draw-on-you-screen/
 # Force Quit by megh link: https://extensions.gnome.org/extension/770/force-quit/
 # OpenWeather by jens link: https://extensions.gnome.org/extension/750/openweather/
+![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/OpenWeather.png)
 # Persian Calendar by omid link: https://extensions.gnome.org/extension/240/persian-calendar/
 # Sound Input & Output Device Chooser by kgshank link: https://extensions.gnome.org/extension/906/sound-output-device-chooser/
 # User Themes by fmuellner link: https://extensions.gnome.org/extension/19/user-themes/
