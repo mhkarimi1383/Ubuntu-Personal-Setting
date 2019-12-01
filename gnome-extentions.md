@@ -14,4 +14,5 @@
 # Persian Calendar by omid link: https://extensions.gnome.org/extension/240/persian-calendar/
 ![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/PersianCalender.png)
 # Sound Input & Output Device Chooser by kgshank link: https://extensions.gnome.org/extension/906/sound-output-device-chooser/
+![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/sound.png)
 # User Themes by fmuellner link: https://extensions.gnome.org/extension/19/user-themes/
