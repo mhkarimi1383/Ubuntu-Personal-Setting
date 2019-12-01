@@ -12,5 +12,6 @@
 # OpenWeather by jens link: https://extensions.gnome.org/extension/750/openweather/
 ![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/OpenWeather.png)
 # Persian Calendar by omid link: https://extensions.gnome.org/extension/240/persian-calendar/
+![Image of Config](https://github.com/mhkarimi1383/Ubuntu-Personal-Setting/raw/master/PersianCalender.png)
 # Sound Input & Output Device Chooser by kgshank link: https://extensions.gnome.org/extension/906/sound-output-device-chooser/
 # User Themes by fmuellner link: https://extensions.gnome.org/extension/19/user-themes/
