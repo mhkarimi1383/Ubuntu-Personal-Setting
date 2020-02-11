@@ -8,5 +8,6 @@ this is used for my own setup of Ubuntu hope you enjoy
 ### use attached tar.xz files for icon, cur., and shell and GTK theme.
 
 ## TODO
-##### [] Update to MacOS Catalina theme
-##### [] Make Special sh file for Setup
+- [ ] Update to Qogir Ubuntu theme
+- [ ] Update to Orange cur. theme
+- [ ] Make Special sh file for Setup
